@@ -1,0 +1,15 @@
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\bin\Debug\Rainbow-Animator.exe.config
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\bin\Debug\Rainbow-Animator.exe
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\bin\Debug\Rainbow-Animator.pdb
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow_Animator.RainbowAnimator.resources
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow_Animator.Properties.Resources.resources
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.csproj.GenerateResource.cache
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.exe
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.pdb
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\bin\Debug\Rainbow-Animator.exe.manifest
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\bin\Debug\Rainbow-Animator.application
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.TrustInfo.xml
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.exe.manifest
+C:\Users\phill\source\repos\Rainbow-Animator\Rainbow-Animator\obj\Debug\Rainbow-Animator.application
